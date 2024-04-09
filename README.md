@@ -264,7 +264,7 @@ Here's the data formatted into a table:
 | Linux       | 58           | 114883.20      |
 | Confluence  | 62           | 114153.12      |
 
-*Here's a breakdown of the most optimal skills for Data Analysts in 2023:
+Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 
 - **High-Demand Programming Languages**: Python and R stand out for their high demand, with demand counts of 236 and 148 respectively. Despite their high demand, their average salaries are around $101,397 for Python and $100,499 for R, indicating that proficiency in these languages is highly valued but also widely available.
 - **Cloud Tools and Technologies**: Skills in specialized technologies such as Snowflake, Azure, AWS, and BigQuery show significant demand with relatively high average salaries, pointing towards the growing importance of cloud platforms and big data technologies in data analysis.
