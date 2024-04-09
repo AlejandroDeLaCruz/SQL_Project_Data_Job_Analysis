@@ -8,7 +8,7 @@
 
 SELECT
     skills,
-    ROUND(AVG(salary_year_avg), 2) AS average_yearly_salary
+    ROUND(AVG(salary_year_avg), 2) AS average_salary
 FROM
     job_postings_fact AS jp
 JOIN

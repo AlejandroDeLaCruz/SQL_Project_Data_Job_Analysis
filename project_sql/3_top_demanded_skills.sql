@@ -9,7 +9,7 @@
 
 SELECT
     skills,
-    COUNT(*) AS total_skill
+    COUNT(*) AS demand_count
 FROM
     job_postings_fact AS jp
 JOIN
