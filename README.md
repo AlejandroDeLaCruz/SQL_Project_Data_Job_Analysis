@@ -194,6 +194,7 @@ Here's the data formatted into a table:
 | Bitbucket    | 116711.75      |
 | Airflow      | 116387.26      |
 | Scala        | 115479.53      |
+
 *Table of the average salary for the top 10 paying skills for data analysts*
 
 ### 5. Most Optimal Skills to Learn
